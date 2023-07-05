@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ForNaderi, a Ph.D. student
+- 👋 Hi, I’m @ForNaderi, a Ph.D. student in mechanical engineering. 
 - 👀 I’m interested in Tech, PINN, new Ideas, computer vision
 - 🌱 I’m currently learning NN, PINN, Mathematics solution
 - 💞️ I’m looking to collaborate on ...
