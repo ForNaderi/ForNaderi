@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ForNaderi, a Ph.D. student in mechanical engineering. 
-- 👀 I’m interested in Tech, PINN, new Ideas, computer vision
-- 🌱 I’m currently learning NN, PINN, Mathematics solution
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in programming, PINN, computer vision, statistics, 
+- 🌱 I’m currently learning GANs
+- 💞️ I’m looking to collaborate on projects in biology, or applying ML in any real problem.
+- 📫  ... 
 
 <!---
 ForNaderi/ForNaderi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
